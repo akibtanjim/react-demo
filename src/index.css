@@ -1,8 +1,12 @@
 body {
   margin: 0;
-  padding: 20px 0 0 0;
+  padding: 0px 0 0 0;
   font-family: sans-serif;
 }
 th {
   cursor: pointer;
+}
+
+.navbar {
+  margin-bottom: 30px;
 }
